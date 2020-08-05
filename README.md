@@ -1,8 +1,30 @@
-### Hi 👋, I'm Roberth Silva 👨‍💻
+### Hi 👋, I'm Roberth 👨‍💻
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/roberth410)](https://twitter.com/roberth410)
+[![Twitter: roberth410](https://img.shields.io/twitter/follow/roberth410?style=social)](https://twitter.com/roberth410)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberth-silva-a1818b46/)](https://www.linkedin.com/in/roberth-silva-a1818b46/)
 [![GitHub followers](https://img.shields.io/github/followers/roberth-silva.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/roberth-silva?tab=followers)
+
+
+Hi there, I'm **Roberth Silva**, a **Software Engineering** 🚀 from Brazil, passionate about technology and soccer :soccer: . I have been working with development and coding for about 11 years, precisely with web development, and recently, coding for mobile devices with react native :iphone:.
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently an Full Developer at [Vip Leilões](https://www.vipleiloes.com.br) and Computing Professor at [Pitágoras College](https://www.pitagoras.com.br/) :school:;
+- :neckbeard: My interests includes anything about new code technologies and how they can contribute to my work;
+- :mortar_board: Bachelor's degree in Software Engineering;
+- :mortar_board: Graduate specialization in Systems Analysis and Development;
+- :mortar_board: Master's degree in in Software Engineering;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via roberth410@gmail.com to reach me.
+
+<!--
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+-->
+
+<br/>
+<br/>
 
 **💼 Currently working as:** 
 Full Stack Developer at <a href="https://www.vipleiloes.com.br/" target="_blank"><b>Vip Leilões</b></a>
@@ -39,4 +61,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌍
 -->
