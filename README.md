@@ -11,7 +11,7 @@ Hi there, I'm **Roberth Silva**, a **Software Engineering** 🚀 from Brazil, pa
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Full Developer at [Vip Leilões](https://www.vipleiloes.com.br) and Computing Professor at [Pitágoras College](https://www.pitagoras.com.br/) :school:;
+- 👨🏽‍💻 I’m currently an Full Stack Developer at [Vip Leilões](https://www.vipleiloes.com.br) and Computing Professor at [Pitágoras College](https://www.pitagoras.com.br/) :school:;
 - :neckbeard: My interests includes anything about new code technologies and how they can contribute to my work;
 - :mortar_board: Bachelor's degree in Software Engineering;
 - :mortar_board: Graduate specialization in Systems Analysis and Development;
@@ -22,9 +22,6 @@ Hi there, I'm **Roberth Silva**, a **Software Engineering** 🚀 from Brazil, pa
 <!--
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
 -->
-
-<br/>
-<br/>
 
 **💼 Currently working as:** 
 Full Stack Developer at <a href="https://www.vipleiloes.com.br/" target="_blank"><b>Vip Leilões</b></a>
