@@ -30,13 +30,13 @@ Full Stack Developer at <a href="https://www.vipleiloes.com.br/" target="_blank"
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></a></code>
-<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png"></a></code>
-<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
+<code><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019" target="_blank"><img height="50" src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/mysql.svg"></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/mysql.svg"></a></code>
 
 
 ![roberth-silva's github stats](https://github-readme-stats.vercel.app/api?username=roberth-silva&show_icons=true&&hide=prs,issues,contribs)
