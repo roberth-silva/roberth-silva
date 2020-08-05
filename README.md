@@ -40,7 +40,7 @@ Full Stack Developer at <a href="https://www.vipleiloes.com.br/" target="_blank"
 
 
 ![roberth-silva's github stats](https://github-readme-stats.vercel.app/api?username=roberth-silva&show_icons=true&&hide=prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberth-silva&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberth-silva&layout=compact)
 
 
 ⭐️ From [roberth-silva](https://github.com/roberth-silva)
