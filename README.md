@@ -11,7 +11,7 @@ Hi there, I'm **Roberth Silva**, a **Software Engineering** 🚀 from Brazil, pa
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Full Stack Developer at [Samcorp Solution](https://www.samcorp.com.br) and Computing Professor at [Pitágoras College](https://www.pitagoras.com.br/) :school:;
+- 👨🏽‍💻 I’m currently an Full Stack Developer at [Samcorp Solution](https://www.samcorp.com.br);
 - :neckbeard: My interests includes anything about new code technologies and how they can contribute to my work;
 - :mortar_board: Bachelor's degree in Software Engineering;
 - :mortar_board: Graduate specialization in Systems Analysis and Development;
@@ -35,7 +35,6 @@ Full Stack Developer at <a href="https://www.samcorp.com.br/" target="_blank"><b
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></a></code>
-<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/mysql.svg"></a></code>
 
 
