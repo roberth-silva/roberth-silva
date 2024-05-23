@@ -11,7 +11,6 @@ Hi there, I'm **Roberth Silva**, a **Software Engineering** 🚀 from Brazil, pa
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Full Stack Developer at [Samcorp Solution](https://www.samcorp.com.br);
 - :neckbeard: My interests includes anything about new code technologies and how they can contribute to my work;
 - :mortar_board: Bachelor's degree in Software Engineering;
 - :mortar_board: Graduate specialization in Systems Analysis and Development;
@@ -24,7 +23,7 @@ Hi there, I'm **Roberth Silva**, a **Software Engineering** 🚀 from Brazil, pa
 -->
 
 **💼 Currently working as:** 
-Full Stack Developer at <a href="https://www.samcorp.com.br/" target="_blank"><b>Samcorp Solutions</b></a>
+
 
 
 **👨🏻‍💻 Currently working on:** 
